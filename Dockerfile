@@ -1,4 +1,4 @@
-FROM kubesphere/builder-base:latest
+FROM kubespheredev/builder-base:latest
 
 ENV NODE_VERSION 10.16.3
 
