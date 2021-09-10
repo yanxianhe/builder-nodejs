@@ -1,6 +1,6 @@
 FROM kubespheredev/builder-base:latest
 
-ENV NODE_VERSION 16.2.0
+ENV NODE_VERSION 14.8.0
 
 RUN ARCH= && uArch="$(uname -m)" \
   && case "${uArch##*-}" in \
