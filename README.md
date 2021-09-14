@@ -4,4 +4,4 @@ For KubeSphere DevOps - Archived since moved to the repo [kubesphere/devops-agen
 
 ## 基于kubesphere/builder-nodejs
 
-* 更新 update nodejs 16.2.0 yarn 1.22.10
+* 更新 update nodejs v14.17.6 yarn 1.22.10
